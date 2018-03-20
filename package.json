@@ -1,0 +1,25 @@
+{
+  "name": "lutra-reset",
+  "version": "0.1.0",
+  "description": "A very small but effective CSS reset, similar to normalize.css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guoyunhe/lutra-reset.git"
+  },
+  "keywords": [
+    "css",
+    "reset",
+    "normalize",
+    "style"
+  ],
+  "author": "Guo Yunhe",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/guoyunhe/lutra-reset/issues"
+  },
+  "homepage": "https://github.com/guoyunhe/lutra-reset#readme"
+}
